@@ -1,0 +1,6 @@
+asad                aaa                 zzzz                zzzz      
+1                   22                  fff                 fff       
+ss                  zz                  mod                 mod       
+1111                2222                oooo                1111      
+Bad_Day             222                 turn                222       
+time                tt                  END_OF_TIME         eot       
