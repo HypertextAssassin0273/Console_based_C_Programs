@@ -1,2 +1,2 @@
 # C-Programs
-Contains some useful C programs, using DevC++ compiler.
+Contains some useful C programs, using DevC++.
