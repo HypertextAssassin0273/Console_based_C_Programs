@@ -1,5 +1,3 @@
-# Console-based C Programs
-
 ## Additional Related Material
 #### [- Programming Fundamentals Coding Sessions in C](https://github.com/HypertextAssassin0273/Programming_Fundamentals_in_C)
 #### [- Learn Complete Basics of C (by Programiz)](https://www.programiz.com/c-programming)
